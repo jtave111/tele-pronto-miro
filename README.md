@@ -9,7 +9,7 @@ Protótipo de baixa fidelidade para o aplicativo **TelePronto**, sistema de tele
 - Joao Victor Belfort  — RA: 325130747
 
 
-> Substitua pelos nomes/RAs reais da equipe antes de entregar.
+
 
 ---
 
